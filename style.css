@@ -13,6 +13,7 @@ body{
 button{
     background-color: white;
     border: 5px solid purple;
+    radius:100%
    
 }
 h1{
