@@ -13,14 +13,12 @@ body{
 button{
     background-color: white;
     border: 5px solid purple;
-    radius:100%
-   
+    
 }
 h1{
     font-family: Indie Flower;
     text-align: center;
     color: purple;
-    
     
 }
 ul{
@@ -31,7 +29,7 @@ li{/*this is for the NAv bar*/
     display: inline-block;
     background-color: purple;
     color: white;
-    width:33%;
+    width:24.8%;
     height: 35px;
     font-size: 30px
     
