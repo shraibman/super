@@ -1,0 +1,82 @@
+body{
+    background-color: lavender;
+    width: 960px;
+    margin: auto;
+    
+}
+.container{
+    width: 960px;
+    /*in the end I didn't use this Div as planded but I'll leave it because I might use it in the future*/
+}
+
+
+button{
+    background-color: white;
+    border: 5px solid purple;
+   
+}
+h1{
+    font-family: Indie Flower;
+    text-align: center;
+    color: purple;
+    
+    
+}
+ul{
+     text-align:center;
+}
+li{/*this is for the NAv bar*/
+    text-align:center;
+    display: inline-block;
+    background-color: purple;
+    color: white;
+    width:33%;
+    height: 35px;
+    font-size: 30px
+    
+}
+
+li> a{/*this is the links stary white after being clicked on*/
+    color: white
+}
+.main{
+    width: 100%;
+    margin-top: 50px; /* the margin is to give some empty space between the Nav Bar and the main content*/
+    font-family: Laila;
+}
+
+.img{
+    float: left;
+    margin: 10px 25px 10px 50px;
+    
+}
+.fr{
+   float: right
+}
+
+
+/* the ID's are used to give each page a color scem of that superhero */
+#spm{
+    background-color: #ff0000;
+    border:solid #ffff00 2px;
+    color: #0000ff;
+    height: 900px
+    
+    
+}
+
+#bm{
+    background-color: #484848;
+    border:solid black 2px;
+    color: #FFF200;
+    height: 900px
+    
+}
+
+#spdr{
+    background-color: #0a2b4e;
+    border:solid #0a2b4e 2px;
+    color: #ffffff;
+    height: 900px
+    
+}
