@@ -29,7 +29,6 @@ li{/*this is for the NAv bar*/
     display: inline-block;
     background-color: purple;
     color: white;
-    width:24.5%;
     height: 35px;
     font-size: 30px
     
@@ -74,7 +73,7 @@ li> a{/*this is the links stary white after being clicked on*/
 
 #spdr{
     background-color: #0a2b4e;
-    border:solid #0a2b4e 2px;
+    border:solid #a71814 2px;
     color: #ffffff;
     height: 900px
     
