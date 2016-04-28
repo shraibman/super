@@ -29,6 +29,7 @@ li{/*this is for the NAv bar*/
     display: inline-block;
     background-color: purple;
     color: white;
+    width:24.6%;
     height: 35px;
     font-size: 30px
     
